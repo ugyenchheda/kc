@@ -1,0 +1,909 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cristiano\n"
+"POT-Creation-Date: 2016-11-28 20:46+0200\n"
+"PO-Revision-Date: 2016-11-28 20:47+0200\n"
+"Last-Translator:  \n"
+"Language-Team: UkrDevs <romanpanchyshyn@gmail.com>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__;_e;_x;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: themes/cristiano\n"
+"X-Poedit-SearchPath-1: plugins/ukrdevs-restaurant-core\n"
+"X-Poedit-SearchPathExcluded-0: themes/cristiano/woocommerce\n"
+"X-Poedit-SearchPathExcluded-1: themes/cristiano/includes/class-tgm-plugin-"
+"activation.php\n"
+"X-Poedit-SearchPathExcluded-2: plugins/ukrdevs-restaurant-core/ocdi\n"
+"X-Poedit-SearchPathExcluded-3: plugins/ukrdevs-restaurant-core/cs-framework/"
+"classes\n"
+
+#: plugins/ukrdevs-restaurant-core/contact-form/heandler.php:16
+msgid ""
+"Oops! There was a problem with your submission. Please complete the form and "
+"try again."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/contact-form/heandler.php:24
+msgid "Contact Form: Message from"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/contact-form/heandler.php:27
+msgid "Name:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/contact-form/heandler.php:28
+msgid "Email:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/contact-form/heandler.php:29
+msgid "Phone:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/contact-form/heandler.php:30
+msgid "Message:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/contact-form/heandler.php:39
+msgid "Thank You! Your message has been sent."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/contact-form/heandler.php:43
+msgid "Oops! Something went wrong and we couldn't send your message."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/contact-form/heandler.php:49
+msgid "There was a problem with your submission, please try again."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/contact-form/index.php:34
+msgid "Send Us Message"
+msgstr "Напишіть Нам"
+
+#: plugins/ukrdevs-restaurant-core/contact-form/index.php:35
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:146
+msgid "Contact Form"
+msgstr "Контактна Форма"
+
+#: plugins/ukrdevs-restaurant-core/contact-form/index.php:42
+msgid "Your Name"
+msgstr "Ваше Ім’я"
+
+#: plugins/ukrdevs-restaurant-core/contact-form/index.php:46
+msgid "Your Email"
+msgstr "Ваш Email"
+
+#: plugins/ukrdevs-restaurant-core/contact-form/index.php:50
+msgid "Your Phone"
+msgstr "Ваш Телефон"
+
+#: plugins/ukrdevs-restaurant-core/contact-form/index.php:55
+msgid "Message"
+msgstr "Повідомлення"
+
+#: plugins/ukrdevs-restaurant-core/contact-form/index.php:58
+msgid "Submit"
+msgstr "Надіслати"
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/framework.class.php:175
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/framework.class.php:180
+msgid "Default options restored."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/framework.class.php:199
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/framework.class.php:365
+msgid "Settings saved."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/framework.class.php:367
+msgid "Save"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/framework.class.php:367
+msgid "Saving..."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/framework.class.php:368
+msgid "Restore"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/framework.class.php:371
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/framework.class.php:375
+msgid "show all options"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/options.class.php:131
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/options.class.php:155
+msgid "ID"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/shortcode.class.php:82
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/shortcode.class.php:90
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:8
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:27
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:49
+msgid "Page Layout"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:33
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:55
+msgid "Select boxed or wide layout."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:35
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:58
+msgid "Wide layout"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:36
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:59
+msgid "Boxed layout"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:43
+msgid "Select a Background Pattern"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:58
+msgid "Background pattern shows only on boxed layout!"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:63
+msgid "Select a Header Layout"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:76
+msgid "Welcome Message"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:77
+msgid "Show on top bar (Header #4)"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:88
+msgid "Presentation Slider"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:94
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:25
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:47
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:79
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:135
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:151
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:167
+msgid "Title"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:100
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:30
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:52
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:84
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:140
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:156
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:172
+msgid "Sub Title"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:106
+msgid "Slider Images"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:107
+msgid "Use max 3 images with 1920x1080 size for better perfomance."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:112
+msgid "Slider on Home Page"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:126
+msgid "Dishes Menu"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:132
+msgid "Currency Symbol"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:138
+msgid "Currency Position"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:140
+msgid "Left"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:141
+msgid "Right"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:142
+msgid "Left with Space"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:143
+msgid "Right with Space"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:146
+msgid "Please select the position of the currency symbol."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:155
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:130
+msgid "Contact Details"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:161
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-details.php:37
+msgid "Address"
+msgstr "Адреса"
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:166
+msgid "Actual Address"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:171
+msgid "Address Notes"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:176
+msgid "Google Map Location"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:181
+msgid "Map Zoom Level"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:182
+msgid "Diapason from 3 to 20"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:187
+msgid "Google Map API"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:193
+msgid "Open Table Restaurant ID"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:209
+msgid "Phone Number (s)"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:214
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:219
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:224
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:229
+msgid "Phone"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:240
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-details.php:52
+msgid "Working Hours"
+msgstr "Робочі години"
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:245
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:250
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:255
+msgid "Row"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:270
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:277
+msgid "Social Networks"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:284
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:292
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:300
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:308
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:316
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:324
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:332
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:340
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/framework.config.php:348
+msgid "Social Url"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:11
+msgid "Product Options"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:22
+msgid "Price"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:23
+msgid "No currency symbols"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:31
+msgid "Highlight"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:42
+msgid "Page Options"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:57
+msgid "Default"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:68
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:4
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:6
+msgid "Our Menu"
+msgstr "Наше Меню"
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:75
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:89
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:109
+msgid "Chose categories to display"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:76
+msgid ""
+"Choose what menu category you want to display on this page. Leave blank for "
+"all categories."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:85
+msgid "Display"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:87
+msgid "1 Column"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:88
+msgid "2 Columns"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:96
+msgid "Google Map"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/metabox.config.php:102
+msgid "Google Map Before Footer"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:16
+msgid "WooCommerce Shortcodes"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:20
+msgid "Product Categories"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:35
+msgid "Carousel"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:42
+msgid "Featured Star Products"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:60
+msgid "Template Shortcodes"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:68
+msgid "Just click to \"Insert Shortcode, this is adding a single shortcode"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:74
+msgid "Our Menu Teaser (Random menu items)"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:98
+msgid "Full Menu URI"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:104
+msgid "Our Menu (Full Menu)"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:119
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:124
+msgid "Short Info"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/shortcode.config.php:162
+msgid "Open Table Reservation"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/config/taxonomy.config.php:21
+msgid "Add Header Image"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/background/background.php:34
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/background/background.php:35
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/upload/upload.php:23
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/background/background.php:36
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/group/group.php:21
+msgid "Adding"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/group/group.php:43
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/group/group.php:75
+msgid "Remove"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/icon/icon.php:25
+#: plugins/ukrdevs-restaurant-core/cs-framework/functions/actions.php:82
+msgid "Add Icon"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/fields/typography/typography.php:107
+#: plugins/ukrdevs-restaurant-core/cs-framework/functions/actions.php:32
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/functions/helpers.php:48
+msgid "This field class is not available!"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/cs-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/restaurant-functions.php:4
+msgid "You must have a minimum version of 4.5 to use this plugin"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/restaurant-functions.php:21
+msgid ""
+"After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-details.php:18
+msgid "Visit Us"
+msgstr "Завітайте до нас"
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-details.php:19
+msgid "Our Location"
+msgstr "Наше Розташування"
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-details.php:26
+msgid "Phones"
+msgstr "Телефони"
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:20
+msgid "Open Table"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:21
+msgid "Book a Table"
+msgstr "Замовити Столик"
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:29
+msgid "Date"
+msgstr "Дата"
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:33
+msgid "Time"
+msgstr "Час"
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:53
+msgid "Party size"
+msgstr "Кі-сть людей"
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:55
+msgid "Person"
+msgstr "Персона"
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:56
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:57
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:58
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:59
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:60
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:61
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:62
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:63
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:64
+msgid "People"
+msgstr "Люди"
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:69
+msgid "Find a Table"
+msgstr "Знайти столик"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:5
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:7
+msgid "Dish"
+msgstr "Страва"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:8
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:9
+msgid "Add New Dish"
+msgstr "Додати нову страву"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:10
+msgid "New Dish"
+msgstr "Нова страва"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:11
+msgid "Edit Dish"
+msgstr "Редагувати страву"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:12
+msgid "View Dish"
+msgstr "Переглянути страву"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:13
+msgid "All Dishes"
+msgstr "Всі страви"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:14
+msgid "Search Dishes"
+msgstr "Пошук страв"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:15
+msgid "Parent Dishes:"
+msgstr "Батьківські страви:"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:16
+msgid "No dishes found."
+msgstr "Страв не знайдено"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:17
+msgid "No dishes found in Trash."
+msgstr "У смітнику немає страв"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/taxonomy.php:4
+msgid "Categories"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/our-menu-teaser.php:45
+msgid "View Full Menu"
+msgstr "Переглянути повне меню"
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/our-menu.php:34
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/our-menu.php:58
+#: themes/cristiano/our-menu.php:47
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:4
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:6
+msgid "Promo Slider"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:5
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:7
+msgid "Slide"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:8
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:9
+msgid "Add New Slide"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:10
+msgid "New Slide"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:11
+msgid "Edit Slide"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:12
+msgid "View Slide"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:13
+msgid "All Slides"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:14
+msgid "Search Slides"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:15
+msgid "Parent Slides:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:16
+msgid "No slides found."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:17
+msgid "No slides found in Trash."
+msgstr ""
+
+#: themes/cristiano/404.php:5
+msgid "Page Not Found"
+msgstr ""
+
+#: themes/cristiano/404.php:6
+msgid "Back to Home Page"
+msgstr ""
+
+#: themes/cristiano/comments.php:23 themes/cristiano/comments.php:41
+msgid "Comment navigation"
+msgstr ""
+
+#: themes/cristiano/comments.php:24 themes/cristiano/comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: themes/cristiano/comments.php:25 themes/cristiano/comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: themes/cristiano/comments.php:48
+msgid "There are no comments"
+msgstr ""
+
+#: themes/cristiano/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: themes/cristiano/footer.php:11
+#: themes/cristiano/includes/widgets/contact-us.php:38
+msgid "Contact Us"
+msgstr "Зв'язатися з нами"
+
+#: themes/cristiano/footer.php:19
+#: themes/cristiano/includes/widgets/social.php:40
+msgid "Follow Us"
+msgstr "Приєднуйтесь"
+
+#: themes/cristiano/footer.php:22
+#: themes/cristiano/includes/widgets/social.php:41
+msgid "Jouin us on social networks"
+msgstr "Ми в соціальних мережах"
+
+#: themes/cristiano/footer.php:32
+msgid "All rights reserved"
+msgstr ""
+
+#: themes/cristiano/includes/cristiano-functions.php:7
+msgid "You must have a minimum version of 4.2 to use this theme"
+msgstr ""
+
+#: themes/cristiano/includes/cristiano-functions.php:25
+msgid "Restaurant Core"
+msgstr ""
+
+#: themes/cristiano/includes/cristiano-functions.php:81
+msgid "Primary Menu"
+msgstr "Головне Меню"
+
+#: themes/cristiano/includes/cristiano-functions.php:82
+msgid "Top Bar Menu"
+msgstr ""
+
+#: themes/cristiano/includes/cristiano-functions.php:90
+msgid "Right Sidebar"
+msgstr "Правий сайдбар"
+
+#: themes/cristiano/includes/cristiano-functions.php:91
+msgid "Appears on the right on blog post page."
+msgstr ""
+
+#: themes/cristiano/includes/cristiano-functions.php:100
+msgid "Footer Widget Area"
+msgstr ""
+
+#: themes/cristiano/includes/cristiano-functions.php:101
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: themes/cristiano/includes/customizer.php:46
+msgid "Header - Top Level [Background Color]"
+msgstr ""
+
+#: themes/cristiano/includes/customizer.php:50
+msgid "Header [Background Color]"
+msgstr ""
+
+#: themes/cristiano/includes/customizer.php:54
+msgid "Header [Primary Text Color]"
+msgstr ""
+
+#: themes/cristiano/includes/customizer.php:58
+msgid "Primary Color [Global]"
+msgstr ""
+
+#: themes/cristiano/includes/customizer.php:62
+msgid "Secondary Color [Global]"
+msgstr ""
+
+#: themes/cristiano/includes/customizer.php:66
+msgid "Footer [Background Color]"
+msgstr ""
+
+#: themes/cristiano/includes/customizer.php:70
+msgid "Footer [Primary Text Color]"
+msgstr ""
+
+#: themes/cristiano/includes/widgets/contact-us.php:10
+msgid "Cristiano Contact Details"
+msgstr ""
+
+#: themes/cristiano/includes/widgets/contact-us.php:11
+msgid "Contact Information"
+msgstr ""
+
+#: themes/cristiano/includes/widgets/contact-us.php:41
+#: themes/cristiano/includes/widgets/social.php:45
+msgid "Title:"
+msgstr ""
+
+#: themes/cristiano/includes/widgets/social.php:10
+msgid "Cristiano Social Links"
+msgstr ""
+
+#: themes/cristiano/includes/widgets/social.php:11
+msgid "A list of social networks url"
+msgstr ""
+
+#: themes/cristiano/includes/widgets/social.php:49
+msgid "Subtitle:"
+msgstr ""
+
+#: themes/cristiano/search.php:4
+msgid "Search Results for:"
+msgstr ""
+
+#: themes/cristiano/search.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: themes/cristiano/template-parts/loop-blog.php:22
+msgid "Read More"
+msgstr "Читати Далі"
+
+#~ msgid "My Account"
+#~ msgstr "Мій Акаунт"
+
+#~ msgid "Primary Color"
+#~ msgstr "Головний колір"
+
+#~ msgid "Secondary Color"
+#~ msgstr "Додатковий колір"
+
+#~ msgid "Primary Heading Color"
+#~ msgstr "Головний колір заголовків"
+
+#~ msgid "You mast have a minimum version of 4.5 to use this theme"
+#~ msgstr "Для роботи теми потрібна мінінмальна версія WordPress - 4.5"

@@ -1,39 +1,10 @@
 /*
 Theme Name: Flavor of India Restaurant
-Theme URI: 
-Author: sawcey shrestha
-Author URI:
-Description: Premium WordPress theme for Restaurant business with online ordering functionality.
-Version: 1.5
-License: GPL 2.0
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: translation-ready, threaded-comments, theme-options, sticky-post, featured-images, custom-menu, custom-colors, custom-background
+Author: Ugyen Chheda Lama
 
 */
 	
-/*  [TABLE OF CONTENTS] 
-/	=========================================================================
-	
-	1. Body					body
-	2. Header 	 			#header
-	3. Navigation 	 		#nav
-	4. Footer 	 			#footer
-    5. Product Categories   #order-online
-	6. Promotion Slider 	#promo-slider
-	7. Our Menu				#our-menu
-	9. Featured Products	#most-popular
-	10. Short Information	#short-info
-	11. Product List		#product-list
-	12. Products navigation	.nav-links
-	13. Single Product 		#product-single
-	14. Reviews 			#reviews
-	15. Google Map			#map1
-	16. Contact Details		#contact-details
-	17. Contact Form 		#ajax-contact
-/*	 ======================================================================== */
 
-/* BASE
-   ========================================================================== */
 body {
 	font: 400 14px/1 'Lora', sans-serif;
 	color: #333;
